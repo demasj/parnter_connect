@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "categorie": "Persoonlijk",
+    "vraag": "Wat is je favoriete jeugdherinnering?"
+  },
+  {
+    "id": 2,
+    "categorie": "Persoonlijk",
+    "vraag": "Wat is je favoriete jeugdherinnering?"
+  },
+  {
+    "id": 3,
+    "categorie": "Persoonlijk",
+    "vraag": "Wat zijn de drie belangrijkste waarden in je leven?"
+  },
+  {
+    "id": 4,
+    "categorie": "Toekomst",
+    "vraag": "Waar zie je jezelf over tien jaar?"
+  },
+  {
+    "id": 5,
+    "categorie": "Relaties",
+    "vraag": "Hoe denk je over het belang van familie in je leven?"
+  }
+
+]

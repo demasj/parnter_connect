@@ -1,0 +1,997 @@
+[
+  {
+    "id": 1,
+    "categorie": "Persoonlijk",
+    "vraag": "Wat is je favoriete jeugdherinnering?"
+  },
+  {
+    "id": 2,
+    "categorie": "Persoonlijk",
+    "vraag": "Wat zijn de drie belangrijkste waarden in je leven?"
+  },
+  {
+    "id": 3,
+    "categorie": "Toekomst",
+    "vraag": "Waar zie je jezelf over tien jaar?"
+  },
+  {
+    "id": 4,
+    "categorie": "Relaties",
+    "vraag": "Hoe denk je over het belang van familie in je leven?"
+  },
+  {
+    "id": 5,
+    "categorie": "Interesses & Hobbies",
+    "vraag": "Wat zijn je favoriete hobby's?"
+  },
+  {
+    "id": 6,
+    "categorie": "Werk & Carrière",
+    "vraag": "Wat vind je het meest interessant aan je werk?"
+  },
+  {
+    "id": 7,
+    "categorie": "Toekomst",
+    "vraag": "Hoe ziet jouw ideale huis eruit?"
+  },
+  {
+    "id": 8,
+    "categorie": "Gezondheid & Welzijn",
+    "vraag": "Hoe zorg je voor je fysieke en mentale gezondheid?"
+  },
+  {
+    "id": 9,
+    "categorie": "Persoonlijk",
+    "vraag": "Wat is het beste advies dat je ooit hebt gekregen?"
+  },
+  {
+    "id": 10,
+    "categorie": "Interesses & Hobbies",
+    "vraag": "Als je onbeperkte tijd en geld had, welke hobby zou je dan oppakken?"
+  },
+  {
+    "id": 11,
+    "categorie": "Relaties",
+    "vraag": "Wat vind je belangrijk in een vriendschap?"
+  },
+  {
+    "id": 12,
+    "categorie": "Persoonlijk",
+    "vraag": "Waar ben je het meest trots op in je leven?"
+  },
+  {
+    "id": 13,
+    "categorie": "Toekomst",
+    "vraag": "Wil je ooit kinderen, en zo ja, hoeveel?"
+  },
+  {
+    "id": 14,
+    "categorie": "Gezondheid & Welzijn",
+    "vraag": "Wat is je favoriete manier om te ontspannen?"
+  },
+  {
+    "id": 15,
+    "categorie": "Interesses & Hobbies",
+    "vraag": "Wat is het leukste boek dat je ooit hebt gelezen?"
+  },
+  {
+    "id": 16,
+    "categorie": "Werk & Carrière",
+    "vraag": "Wat zou je doen als je niet voor geld hoefde te werken?"
+  },
+  {
+    "id": 17,
+    "categorie": "Persoonlijk",
+    "vraag": "Hoe ga je om met stress?"
+  },
+  {
+    "id": 18,
+    "categorie": "Toekomst",
+    "vraag": "Welke landen wil je nog bezoeken?"
+  },
+  {
+    "id": 19,
+    "categorie": "Relaties",
+    "vraag": "Wat beschouw je als je grootste kracht in een relatie?"
+  },
+  {
+    "id": 20,
+    "categorie": "Gezondheid & Welzijn",
+    "vraag": "Wat is je favoriete gezonde maaltijd?"
+  },
+  {
+    "id": 21,
+    "categorie": "Interesses & Hobbies",
+    "vraag": "Speel je een muziekinstrument, of zou je er een willen leren?"
+  },
+  {
+    "id": 22,
+    "categorie": "Persoonlijk",
+    "vraag": "Welke eigenschap waardeer je het meest in jezelf?"
+  },
+  {
+    "id": 23,
+    "categorie": "Toekomst",
+    "vraag": "Hoe ziet je ideale pensioen eruit?"
+  },
+  {
+    "id": 24,
+    "categorie": "Relaties",
+    "vraag": "Hoe zou je je perfecte date beschrijven?"
+  },
+  {
+    "id": 25,
+    "categorie": "Werk & Carrière",
+    "vraag": "Wie is je grootste rolmodel in je carrière?"
+  },
+  {
+    "id": 26,
+    "categorie": "Gezondheid & Welzijn",
+    "vraag": "Hoe belangrijk is sport voor je?"
+  },
+  {
+    "id": 27,
+    "categorie": "Interesses & Hobbies",
+    "vraag": "Wat is je favoriete film of serie?"
+  },
+  {
+    "id": 28,
+    "categorie": "Persoonlijk",
+    "vraag": "Ben je een introvert of extravert persoon?"
+  },
+  {
+    "id": 29,
+    "categorie": "Toekomst",
+    "vraag": "Wat hoop je dat mensen zich over jou zullen herinneren?"
+  },
+  {
+    "id": 30,
+    "categorie": "Relaties",
+    "vraag": "Hoe ga je om met conflicten in relaties?"
+  },
+  {
+    "id": 31,
+    "categorie": "Werk & Carrière",
+    "vraag": "Wat is je droomberoep?"
+  },
+  {
+    "id": 32,
+    "categorie": "Gezondheid & Welzijn",
+    "vraag": "Welke slechte gewoonte zou je willen veranderen?"
+  },
+  {
+    "id": 33,
+    "categorie": "Interesses & Hobbies",
+    "vraag": "Wat is je favoriete manier om het weekend door te brengen?"
+  },
+  {
+    "id": 34,
+    "categorie": "Persoonlijk",
+    "vraag": "Welke historische persoon zou je willen ontmoeten?"
+  },
+  {
+    "id": 35,
+    "categorie": "Toekomst",
+    "vraag": "Wat is iets dat je nog wil leren?"
+  },
+  {
+    "id": 36,
+    "categorie": "Relaties",
+    "vraag": "Wat betekent liefde voor jou?"
+  },
+  {
+    "id": 37,
+    "categorie": "Werk & Carrière",
+    "vraag": "Wat motiveert je het meest in je werk?"
+  },
+  {
+    "id": 38,
+    "categorie": "Gezondheid & Welzijn",
+    "vraag": "Hoeveel waarde hecht je aan een goede nachtrust?"
+  },
+  {
+    "id": 39,
+    "categorie": "Interesses & Hobbies",
+    "vraag": "Wat is het meest avontuurlijke dat je ooit hebt gedaan?"
+  },
+  {
+    "id": 40,
+    "categorie": "Persoonlijk",
+    "vraag": "Wat zou je doen als je de loterij zou winnen?"
+  },
+  {
+    "id": 41,
+    "categorie": "Toekomst",
+    "vraag": "Wat is iets wat je altijd al hebt willen doen, maar nog nooit hebt gedaan?"
+  },
+  {
+    "id": 42,
+    "categorie": "Relaties",
+    "vraag": "Hoe toon je je liefde en waardering?"
+  },
+  {
+    "id": 43,
+    "categorie": "Werk & Carrière",
+    "vraag": "Wat zou je willen verbeteren aan je huidige baan?"
+  },
+  {
+    "id": 44,
+    "categorie": "Gezondheid & Welzijn",
+    "vraag": "Doe je aan meditatie of mindfulness?"
+  },
+  {
+    "id": 45,
+    "categorie": "Interesses & Hobbies",
+    "vraag": "Wat is je favoriete sport om te beoefenen of naar te kijken?"
+  },
+  {
+    "id": 46,
+    "categorie": "Persoonlijk",
+    "vraag": "Heb je ooit een talent gehad dat je nu niet meer beoefent?"
+  },
+  {
+    "id": 47,
+    "categorie": "Toekomst",
+    "vraag": "Wat is een doel dat je wilt bereiken voor je pensioen?"
+  },
+  {
+    "id": 48,
+    "categorie": "Relaties",
+    "vraag": "Wat is het beste aan onze relatie?"
+  },
+  {
+    "id": 49,
+    "categorie": "Werk & Carrière",
+    "vraag": "Wat is het meest uitdagende aspect van je werk?"
+  },
+  {
+    "id": 50,
+    "categorie": "Gezondheid & Welzijn",
+    "vraag": "Wat is je grootste verslaving of guilty pleasure?"
+  },
+  {
+    "id": 51,
+    "categorie": "Ondeugend",
+    "vraag": "Wat is je grootste fantasie die je ooit zou willen uitproberen?"
+  },
+  {
+    "id": 52,
+    "categorie": "Ondeugend",
+    "vraag": "Wat vind je het meest aantrekkelijk aan mij?"
+  },
+  {
+    "id": 53,
+    "categorie": "Ondeugend",
+    "vraag": "Wat is iets nieuws dat je graag samen zou willen proberen in de slaapkamer?"
+  },
+  {
+    "id": 54,
+    "categorie": "Ondeugend",
+    "vraag": "Heb je een favoriet soort lingerie of kleding dat je graag bij mij zou zien?"
+  },
+  {
+    "id": 55,
+    "categorie": "Ondeugend",
+    "vraag": "Wat is je favoriete plek om aangeraakt te worden?"
+  },
+  {
+    "id": 56,
+    "categorie": "Ondeugend",
+    "vraag": "Speel je wel een stiekem met jezelf?"
+  },
+  {
+    "id": 57,
+    "categorie": "Ondeugend",
+    "vraag": "Ben je openminded? Leg uit."
+  },
+  {
+    "id": 58,
+    "categorie": "Ondeugend",
+    "vraag": "Welk compliment over je lichaam waardeer je het meest?"
+  },
+  {
+    "id": 59,
+    "categorie": "Ondeugend",
+    "vraag": "Wat is iets wat je spannend vindt, maar nog niet hebt durven uitproberen?"
+  },
+  {
+    "id": 60,
+    "categorie": "Ondeugend",
+    "vraag": "Stel je partner een stelt een trio voor, sta je daar dan voor open?"
+  },
+  {
+    "id": 61,
+    "categorie": "Ondeugend",
+    "vraag": "Wat is een geheime fantasie die je nog nooit hebt gedeeld?"
+  },
+  {
+    "id": 62,
+    "categorie": "Ondeugend",
+    "vraag": "Hoe belangrijk is voorspel voor jou?"
+  },
+  {
+    "id": 63,
+    "categorie": "Ondeugend",
+    "vraag": "Wat is iets wat je mij graag zou willen leren of laten zien?"
+  },
+  {
+    "id": 64,
+    "categorie": "Ondeugend",
+    "vraag": "Welke geluiden of woorden werken opwindend voor je?"
+  },
+  {
+    "id": 65,
+    "categorie": "Ondeugend",
+    "vraag": "Wat is je favoriete herinnering aan ons samen in bed?"
+  },
+  {
+    "id": 66,
+    "categorie": "Ondeugend",
+    "vraag": "Is er een film of scène die je graag samen zou willen naspelen?"
+  },
+  {
+    "id": 67,
+    "categorie": "Ondeugend",
+    "vraag": "Wat vind je het mooiste aan mijn lichaam?"
+  },
+  {
+    "id": 68,
+    "categorie": "Ondeugend",
+    "vraag": "Wat is je favorite standje?"
+  },
+  {
+    "id": 69,
+    "categorie": "Ondeugend",
+    "vraag": "Wat vind je belangrijker: passie of tederheid?"
+  },
+  {
+    "id": 70,
+    "categorie": "Ondeugend",
+    "vraag": "Wat is jouw grootste fantasie die je ooit zou willen delen?"
+  },
+  {
+    "id": 71,
+    "categorie": "Ondeugend",
+    "vraag": "Wat zou je het liefst samen willen proberen wat we nog niet gedaan hebben?"
+  },
+  {
+    "id": 72,
+    "categorie": "Ondeugend",
+    "vraag": "Welk compliment zou je het liefst krijgen tijdens een intiem moment?"
+  },
+  {
+    "id": 73,
+    "categorie": "Ondeugend",
+    "vraag": "Als we een geheime plek zouden kiezen, waar zou jij het liefst zijn?"
+  },
+  {
+    "id": 74,
+    "categorie": "Ondeugend",
+    "vraag": "Hoe zou je het vinden om samen een verboden avontuur aan te gaan?"
+  },
+  {
+    "id": 75,
+    "categorie": "Ondeugend",
+    "vraag": "Wat is voor jou het meest opwindende om van een ander te horen?"
+  },
+  {
+    "id": 76,
+    "categorie": "Ondeugend",
+    "vraag": "Is er iets dat je al lang wilt vragen maar je nooit durfde?"
+  },
+  {
+    "id": 77,
+    "categorie": "Ondeugend",
+    "vraag": "Wat zou je willen dat ik tegen je zeg tijdens een intiem moment?"
+  },
+  {
+    "id": 78,
+    "categorie": "Ondeugend",
+    "vraag": "Wat is het meest gedurfde dat je ooit hebt gedaan en zou je het nog eens doen?"
+  },
+  {
+    "id": 79,
+    "categorie": "Ondeugend",
+    "vraag": "Welke geur of sfeer vind jij het meest opwindend?"
+  },
+  {
+    "id": 80,
+    "categorie": "Ondeugend",
+    "vraag": "Zou je ooit iets willen proberen op een ongebruikelijke tijd of plaats?"
+  },
+  {
+    "id": 81,
+    "categorie": "Ondeugend",
+    "vraag": "Wat zou je het liefst eens samen ontdekken dat nieuw voor ons is?"
+  },
+  {
+    "id": 82,
+    "categorie": "Ondeugend",
+    "vraag": "Als je één hint mocht geven over je geheime verlangens, wat zou dat zijn?"
+  },
+  {
+    "id": 83,
+    "categorie": "Ondeugend",
+    "vraag": "Welke situatie zou volgens jou de spanning tussen ons verhogen?"
+  },
+  {
+    "id": 84,
+    "categorie": "Ondeugend",
+    "vraag": "Wat zou je willen dat we doen om onze connectie verder te verdiepen?"
+  },
+  {
+    "id": 85,
+    "categorie": "Ondeugend",
+    "vraag": "Wat betekent passie voor jou en hoe zie je dat in ons?"
+  },
+  {
+    "id": 86,
+    "categorie": "Ondeugend",
+    "vraag": "Zijn er details of fantasieën die je ooit zou willen delen of bespreken?"
+  },
+  {
+    "id": 87,
+    "categorie": "Ondeugend",
+    "vraag": "Hoe voelt het voor je als we elkaar vertrouwen en ons laten gaan?"
+  },
+  {
+    "id": 88,
+    "categorie": "Ondeugend",
+    "vraag": "Hoe zou je willen dat ik je verleid in een perfecte wereld?"
+  },
+  {
+    "id": 89,
+    "categorie": "Ondeugend",
+    "vraag": "Wat zou ons naar jouw idee samen nog intiemer maken?"
+  },
+  {
+    "id": 90,
+    "categorie": "Verleden",
+    "vraag": "Als je één gebeurtenis uit je verleden zou kunnen veranderen, wat zou dat dan zijn en waarom?"
+  },
+  {
+    "id": 91,
+    "categorie": "Droomleven",
+    "vraag": "Als geld geen rol speelde, hoe zou je ideale dag er dan uitzien?"
+  },
+  {
+    "id": 92,
+    "categorie": "Waarden",
+    "vraag": "Wat zijn voor jou de drie belangrijkste waarden in het leven en waarom?"
+  },
+  {
+    "id": 93,
+    "categorie": "Angsten",
+    "vraag": "Wat is je grootste angst en hoe ga je daar mee om?"
+  },
+  {
+    "id": 94,
+    "categorie": "Liefde",
+    "vraag": "Wat betekent liefde voor jou en hoe heb je die liefde ervaren in je leven?"
+  },
+  {
+    "id": 95,
+    "categorie": "Groei",
+    "vraag": "Waar ben je het meest trots op in je persoonlijke groei?"
+  },
+  {
+    "id": 96,
+    "categorie": "Relatie",
+    "vraag": "Wat waardeer je het meest in onze relatie en wat zou je graag willen verbeteren?"
+  },
+  {
+    "id": 97,
+    "categorie": "Toekomst",
+    "vraag": "Hoe zie je onze toekomst samen over vijf jaar?"
+  },
+  {
+    "id": 98,
+    "categorie": "Creativiteit",
+    "vraag": "Als je een kunstwerk zou maken om onze relatie te symboliseren, hoe zou dat eruit zien?"
+  },
+  {
+    "id": 99,
+    "categorie": "Filosofisch",
+    "vraag": "Wat is voor jou de zin van het leven?"
+  },
+  {
+    "id": 100,
+    "categorie": "Humor",
+    "vraag": "Wat is de grappigste gebeurtenis die je ooit is overkomen?"
+  },
+  {
+    "id": 101,
+    "categorie": "Persoonlijkheid",
+    "vraag": "Welke eigenschap van jezelf vind je het meest uniek?"
+  },
+  {
+    "id": 102,
+    "categorie": "Ervaringen",
+    "vraag": "Wat is de meest bijzondere ervaring die je ooit hebt gehad?"
+  },
+  {
+    "id": 103,
+    "categorie": "Spijt",
+    "vraag": "Waar heb je het meeste spijt van in je leven?"
+  },
+  {
+    "id": 104,
+    "categorie": "Droom",
+    "vraag": "Als je één wens mocht doen, wat zou dat dan zijn?"
+  },
+  {
+    "id": 105,
+    "categorie": "Verbinding",
+    "vraag": "Hoe kunnen we onze verbinding met elkaar nog verder verdiepen?"
+  },
+  {
+    "id": 106,
+    "categorie": "Inspiratie",
+    "vraag": "Wie of wat inspireert jou het meest?"
+  },
+  {
+    "id": 107,
+    "categorie": "Conflicten",
+    "vraag": "Hoe ga je het liefst om met conflicten in een relatie?"
+  },
+  {
+    "id": 108,
+    "categorie": "Verandering",
+    "vraag": "Ben je meer een persoon die van verandering houdt of juist van routine?"
+  },
+  {
+    "id": 109,
+    "categorie": "Vriendschap",
+    "vraag": "Wat maakt een goede vriend voor jou?"
+  },
+  {
+    "id": 111,
+    "categorie": "Natuur",
+    "vraag": "Als je een eiland zou kunnen creëren, welke dieren en planten zouden daar leven?"
+  },
+  {
+    "id": 112,
+    "categorie": "Dromen",
+    "vraag": "Wat is je meest terugkerende droom en wat denk je dat het betekent?"
+  },
+  {
+    "id": 113,
+    "categorie": "Cultuur",
+    "vraag": "Welke cultuur vind je het meest fascinerend en waarom?"
+  },
+  {
+    "id": 114,
+    "categorie": "Angsten",
+    "vraag": "Wat is je grootste angst voor de toekomst?"
+  },
+  {
+    "id": 115,
+    "categorie": "Liefde",
+    "vraag": "Hoe zou je de perfecte liefdesbrief beschrijven?"
+  },
+  {
+    "id": 116,
+    "categorie": "Groei",
+    "vraag": "Welke levensles heeft je het meest gevormd?"
+  },
+  {
+    "id": 117,
+    "categorie": "Relatie",
+    "vraag": "Wat is voor jou het geheim van een langdurige relatie?"
+  },
+  {
+    "id": 118,
+    "categorie": "Toekomst",
+    "vraag": "Als je een tijdmachine zou hebben, naar welk moment in de geschiedenis zou je gaan?"
+  },
+  {
+    "id": 119,
+    "categorie": "Creativiteit",
+    "vraag": "Wat is de meest creatieve manier waarop je ooit een probleem hebt opgelost?"
+  },
+  {
+    "id": 120,
+    "categorie": "Filosofisch",
+    "vraag": "Geloof je in een leven na de dood, en zo ja, hoe ziet dat er volgens jou uit?"
+  },
+  {
+    "id": 121,
+    "categorie": "Humor",
+    "vraag": "Wat is het meest hilarische misverstand dat je ooit hebt meegemaakt?"
+  },
+  {
+    "id": 122,
+    "categorie": "Persoonlijkheid",
+    "vraag": "Welke eigenschap van jezelf zou je graag willen veranderen?"
+  },
+  {
+    "id": 123,
+    "categorie": "Ervaringen",
+    "vraag": "Wat is de meest waardevolle levensles die je van een ouder of mentor hebt geleerd?"
+  },
+  {
+    "id": 124,
+    "categorie": "Spijt",
+    "vraag": "Is er iets dat je had willen doen toen je jonger was?"
+  },
+  {
+    "id": 125,
+    "categorie": "Droom",
+    "vraag": "Als je een superkracht zou kunnen hebben, welke zou dat zijn en waarom?"
+  },
+  {
+    "id": 126,
+    "categorie": "Kindertijd",
+    "vraag": "Wat is je leukste herinnering aan je kindertijd?"
+  },
+  {
+    "id": 127,
+    "categorie": "Angsten",
+    "vraag": "Wat is de grootste angst die je hebt overkoom?"
+  },
+  {
+    "id": 128,
+    "categorie": "Liefde",
+    "vraag": "Wat is voor jou het belangrijkste ingrediënt voor een liefdevolle relatie?"
+  },
+  {
+    "id": 129,
+    "categorie": "Groei",
+    "vraag": "Als je een boek zou schrijven over je leven tot nu toe, wat zou de titel zijn?"
+  },
+  {
+    "id": 130,
+    "categorie": "Relatie",
+    "vraag": "Wat is het meest romantische gebaar dat je ooit hebt ontvangen of gegeven?"
+  },
+  {
+    "id": 131,
+    "categorie": "Toekomst",
+    "vraag": "Als je één ding zou kunnen veranderen aan de wereld, wat zou dat dan zijn?"
+  },
+  {
+    "id": 132,
+    "categorie": "Creativiteit",
+    "vraag": "Wat is je favoriete manier om te ontspannen en je creativiteit te uiten?"
+  },
+  {
+    "id": 133,
+    "categorie": "Filosofisch",
+    "vraag": "Wat is voor jou het grootste mysterie van het leven?"
+  },
+  {
+    "id": 134,
+    "categorie": "Humor",
+    "vraag": "Wat is je favoriete grap of mop?"
+  },
+  {
+    "id": 135,
+    "categorie": "Persoonlijkheid",
+    "vraag": "Welke eigenschap van jezelf vind je het minst aantrekkelijk aan jezelf?"
+  },
+  {
+    "id": 136,
+    "categorie": "Ervaringen",
+    "vraag": "Wat is de meest onverwachte ervaring die je ooit hebt gehad?"
+  },
+  {
+    "id": 137,
+    "categorie": "Spijt",
+    "vraag": "Als je één ding anders zou doen in je leven, wat zou dat dan zijn?"
+  },
+  {
+    "id": 138,
+    "categorie": "Droom",
+    "vraag": "Als je een dag onzichtbaar zou kunnen zijn, wat zou je dan doen?"
+  },
+  {
+    "id": 139,
+    "categorie": "Verbinding",
+    "vraag": "Hoe kunnen we onze communicatie verbeteren?"
+  },
+  {
+    "id": 140,
+    "categorie": "Inspiratie",
+    "vraag": "Welke quote inspireert jou het meest?"
+  },
+  {
+    "id": 141,
+    "categorie": "Ergernissen",
+    "vraag": "Wat is iets kleins dat ik doe waar je je steeds aan erger?"
+  },
+  {
+    "id": 142,
+    "categorie": "Behoeften",
+    "vraag": "Voel je je soms niet gehoord wanneer je iets belangrijk vindt?"
+  },
+  {
+    "id": 143,
+    "categorie": "Gedrag",
+    "vraag": "Is er bepaald gedrag van mij dat je graag zou willen zien veranderen?"
+  },
+  {
+    "id": 144,
+    "categorie": "Communicatie",
+    "vraag": "Hoe zou ik jou beter kunnen laten voelen als je je verdrietig of boos voelt?"
+  },
+  {
+    "id": 145,
+    "categorie": "Verwachtingen",
+    "vraag": "Voel je je soms onder druk gezet om aan bepaalde verwachtingen te voldoen?"
+  },
+  {
+    "id": 146,
+    "categorie": "Ruimte",
+    "vraag": "Heb je soms behoefte aan meer persoonlijke ruimte?"
+  },
+  {
+    "id": 147,
+    "categorie": "Ondersteuning",
+    "vraag": "Hoe kan ik je het beste ondersteunen bij je doelen en dromen?"
+  },
+  {
+    "id": 148,
+    "categorie": "Verleden",
+    "vraag": "Is er iets uit het verleden dat nog steeds invloed heeft op hoe je je nu voelt in onze relatie?"
+  },
+  {
+    "id": 149,
+    "categorie": "Aandacht",
+    "vraag": "Voel je je voldoende gezien en gewaardeerd door mij?"
+  },
+  {
+    "id": 150,
+    "categorie": "Kritiek",
+    "vraag": "Hoe ga je het liefst om met kritiek en feedback?"
+  },
+  {
+    "id": 151,
+    "categorie": "Verandering",
+    "vraag": "Is er iets in onze relatie dat je graag zou willen veranderen?"
+  },
+  {
+    "id": 152,
+    "categorie": "Vertrouwen",
+    "vraag": "Is er iets waardoor je vertrouwen in mij soms geschaad wordt?"
+  },
+  {
+    "id": 153,
+    "categorie": "Gevoelens",
+    "vraag": "Wanneer voel je je het meest gekwetst in onze relatie?"
+  },
+  {
+    "id": 154,
+    "categorie": "Routine",
+    "vraag": "Voelen we ons soms vastgeroest in een sleur?"
+  },
+  {
+    "id": 155,
+    "categorie": "Vergelijking",
+    "vraag": "Voel je je soms vergeleken met anderen?"
+  },
+  {
+    "id": 156,
+    "categorie": "Hulp",
+    "vraag": "Is er iets waar ik je mee kan helpen, maar wat je nog niet durft te vragen?"
+  },
+  {
+    "id": 157,
+    "categorie": "Gedeelde activiteiten",
+    "vraag": "Zijn er activiteiten die je graag samen met mij zou willen doen?"
+  },
+  {
+    "id": 158,
+    "categorie": "Rollen",
+    "vraag": "Voel je je soms dat je meer verantwoordelijkheid draagt in onze relatie?"
+  },
+  {
+    "id": 159,
+    "categorie": "Verwachtingen",
+    "vraag": "Heb je bepaalde verwachtingen van mij die ik misschien niet waarmaak?"
+  },
+  {
+    "id": 160,
+    "categorie": "Toekomst",
+    "vraag": "Zijn er zorgen die je hebt over de toekomst van onze relatie?"
+  },
+  {
+    "id": 261,
+    "categorie": "Ergernissen",
+    "vraag": "Is er een gewoonte van mij die je soms irriteert?"
+  },
+  {
+    "id": 262,
+    "categorie": "Verandering",
+    "vraag": "Is er iets dat ik zou kunnen doen om onze dagelijkse routine wat op te leuken?"
+  },
+  {
+    "id": 263,
+    "categorie": "Communicatie",
+    "vraag": "Voel je je soms niet gehoord wanneer je iets belangrijk vindt?"
+  },
+  {
+    "id": 264,
+    "categorie": "Aandacht",
+    "vraag": "Is er iets waar ik meer aandacht aan zou moeten besteden in onze relatie?"
+  },
+  {
+    "id": 265,
+    "categorie": "Huiswerk",
+    "vraag": "Is er een taak in huis die je liever niet doet, maar die ik wel zou kunnen overnemen?"
+  },
+  {
+    "id": 266,
+    "categorie": "Gedrag",
+    "vraag": "Is er een bepaald gedrag van mij dat je graag zou willen zien veranderen?"
+  },
+  {
+    "id": 267,
+    "categorie": "Verwachtingen",
+    "vraag": "Voel je je soms onder druk gezet om aan bepaalde verwachtingen te voldoen?"
+  },
+  {
+    "id": 268,
+    "categorie": "Ruimte",
+    "vraag": "Heb je soms behoefte aan meer persoonlijke ruimte?"
+  },
+  {
+    "id": 269,
+    "categorie": "Ondersteuning",
+    "vraag": "Hoe kan ik je beter ondersteunen als je je verdrietig of gestrest voelt?"
+  },
+  {
+    "id": 270,
+    "categorie": "Kritiek",
+    "vraag": "Hoe ga je het liefst om met kritiek en feedback?"
+  },
+  {
+    "id": 271,
+    "categorie": "Verandering",
+    "vraag": "Is er iets in onze relatie dat je graag zou willen veranderen?"
+  },
+  {
+    "id": 272,
+    "categorie": "Vertrouwen",
+    "vraag": "Is er iets waardoor je vertrouwen in mij soms geschaad wordt?"
+  },
+  {
+    "id": 273,
+    "categorie": "Gevoelens",
+    "vraag": "Wanneer voel je je het meest gekwetst in onze relatie?"
+  },
+  {
+    "id": 274,
+    "categorie": "Routine",
+    "vraag": "Voelen we ons soms vastgeroest in een sleur?"
+  },
+  {
+    "id": 275,
+    "categorie": "Hulp",
+    "vraag": "Is er iets waar ik je mee kan helpen, maar wat je nog niet durft te vragen?"
+  },
+  {
+    "id": 276,
+    "categorie": "Rollen",
+    "vraag": "Voel je soms dat je meer verantwoordelijkheid draagt in onze relatie?"
+  },
+  {
+    "id": 277,
+    "categorie": "Verwachtingen",
+    "vraag": "Heb ik onrealistische verwachtingen van jou?"
+  },
+  {
+    "id": 278,
+    "categorie": "Intimiteit",
+    "vraag": "Is er iets wat je zou willen veranderen aan onze fysieke intimiteit?"
+  },
+  {
+    "id": 279,
+    "categorie": "Beslissingen",
+    "vraag": "Voel je je voldoende betrokken bij belangrijke beslissingen die ons beiden aangaan?"
+  },
+  {
+    "id": 280,
+    "categorie": "Vrienden en familie",
+    "vraag": "Is er iets aan mijn interactie met vrienden of familie dat je stoort?"
+  },
+  {
+    "id": 281,
+    "categorie": "Intimiteit",
+    "vraag": "Wat betekent intimiteit voor jou, naast seksualiteit?"
+  },
+  {
+    "id": 282,
+    "categorie": "Communicatie",
+    "vraag": "Voel je je comfortabel om open te zijn over je seksuele verlangens?"
+  },
+  {
+    "id": 283,
+    "categorie": "Verandering",
+    "vraag": "Is er iets in onze seksuele relatie dat je graag zou willen veranderen?"
+  },
+  {
+    "id": 284,
+    "categorie": "Vertrouwen",
+    "vraag": "Voel je je veilig om nieuwe dingen uit te proberen in de slaapkamer?"
+  },
+  {
+    "id": 285,
+    "categorie": "Frequentie",
+    "vraag": "Voel je dat we voldoende seks hebben?"
+  },
+  {
+    "id": 286,
+    "categorie": "Variatie",
+    "vraag": "Zou je graag meer variatie zien in onze seksleven?"
+  },
+  {
+    "id": 287,
+    "categorie": "Fantasieën",
+    "vraag": "Heb je ooit over seksuele fantasieën willen praten?"
+  },
+  {
+    "id": 288,
+    "categorie": "Lichaam",
+    "vraag": "Voel je je goed in je lichaam tijdens seks?"
+  },
+  {
+    "id": 289,
+    "categorie": "Voorspel",
+    "vraag": "Wat vind je belangrijk aan voorspel?"
+  },
+  {
+    "id": 290,
+    "categorie": "Na de seks",
+    "vraag": "Hoe kunnen we onze intimiteit na de seks vergroten?"
+  },
+  {
+    "id": 291,
+    "categorie": "Verwachtingen",
+    "vraag": "Hebben we realistische verwachtingen van elkaar op seksueel gebied?"
+  },
+  {
+    "id": 292,
+    "categorie": "Problemen",
+    "vraag": "Is er iets wat je stoort aan onze seksuele relatie?"
+  },
+  {
+    "id": 293,
+    "categorie": "Communicatie tijdens seks",
+    "vraag": "Hoe kunnen we tijdens de seks beter communiceren over wat we wel en niet willen?"
+  },
+  {
+    "id": 294,
+    "categorie": "Experimenten",
+    "vraag": "Zou je open staan voor het proberen van nieuwe dingen in de slaapkamer?"
+  },
+  {
+    "id": 295,
+    "categorie": "Rollen",
+    "vraag": "Heb je ooit fantasieën gehad over het uitproberen van verschillende rollen in de slaapkamer?"
+  },
+  {
+    "id": 296,
+    "categorie": "Seksuele gezondheid",
+    "vraag": "Zijn er zorgen die je hebt over onze seksuele gezondheid?"
+  },
+  {
+    "id": 297,
+    "categorie": "Liefde en seks",
+    "vraag": "Hoe verbindt seks zich voor jou met liefde?"
+  },
+  {
+    "id": 298,
+    "categorie": "Verleden",
+    "vraag": "Heeft je seksuele verleden invloed op hoe je nu over seks denkt?"
+  },
+  {
+    "id": 299,
+    "categorie": "Toekomst",
+    "vraag": "Hoe zie je onze seksuele relatie in de toekomst?"
+  },
+  {
+    "id": 300,
+    "categorie": "Compliment",
+    "vraag": "Wat vind je het leukste aan onze seksuele relatie?"
+  }
+]
