@@ -55,7 +55,8 @@ def display_random_question():
     """
     global questions, displayed_questions, category_value_label, question_value_label
 
-    available_questions = [q for q in questions if q['id'] not in displayed_questions]
+    # Filter questions that have an 'id' key and are not in displayed_questions
+    available_questions = [q for q in questions if 'id' in q and q['id'] not in displayed_questions]
 
     if not available_questions:
         question_value_label.config(text="Goed gedaan! Jullie hebben alle vragen besproken."         
@@ -74,8 +75,9 @@ def display_random_question():
     displayed_questions.add(question['id'])
     save_displayed_questions(displayed_questions)
 
-    category_value_label.config(text=question['categorie'])
-    question_value_label.config(text=question['vraag'])
+    category_value_label.config(text=question.get('categorie', ''))
+    question_value_label.config(text=question.get('vraag', ''))
+
 
 def setup_gui():
     """
@@ -87,7 +89,7 @@ def setup_gui():
     """
     global questions, displayed_questions, category_value_label, question_value_label
 
-    questions = load_questions('partner_connect/test_vragen.json')
+    questions = load_questions('partner_connect/vragen.json')
     displayed_questions = load_displayed_questions()
 
     # Reset displayed questions if all have been taken
