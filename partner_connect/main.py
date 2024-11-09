@@ -89,7 +89,7 @@ def setup_gui():
     """
     global questions, displayed_questions, category_value_label, question_value_label
 
-    questions = load_questions('partner_connect/vragen.json')
+    questions = load_questions('./vragen.json')
     displayed_questions = load_displayed_questions()
 
     # Reset displayed questions if all have been taken
